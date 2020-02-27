@@ -1,0 +1,59 @@
+
+html, body{
+	margin-top: 10%;
+}
+
+h1{
+	font-family:Major Mono Display; 
+	font-size: 200px; 
+	letter-spacing: 15px;
+	text-align: center;
+	color: gray; 
+	padding-left: 1%;
+	padding-right: 1%;
+
+}
+
+
+h2{
+	font-family:Major Mono Display; 
+	font-size: 60px; 
+	letter-spacing: 5px;
+	text-align: center;
+	color: black;
+	padding-top: -20px;
+	padding-right: 1%;
+	text-align: center;
+}
+
+h3{
+	font-family:Major Mono Display; 
+	font-size: 35px; 
+	letter-spacing: 2px;
+	text-align: left;
+	color: black;
+	padding-left: 30%;
+	padding-top: 20%;
+	padding-right: 15%;
+
+}
+h4{
+	font-family:Major Mono Display; 
+	font-size: 20px; 
+	letter-spacing: px;
+	text-align: left;
+	color: black;
+	padding-left: 30%;
+	padding-right: 15%;
+}
+
+p{
+	font-family: Roboto;
+	font-size: 15;
+	color: rgb(100,100,120);
+	text-align: left;
+	padding-left: 30%;
+	padding-right: 15%;
+}
+
+ 
